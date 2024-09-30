@@ -1,4 +1,4 @@
-## Algorytm sortowania na przykładzie problemu Misja
+# Algorytm sortowania na przykładzie problemu Misja
 Ziemia weszła w konflikt z obcą cywilizacją, która posiada wyjątkowo niebezpieczną broń mogącą
 zniszczyć naszą planetę. Kapitan kosmicznego statku „Enterprise” ma za zadanie unieszkodliwić
 wroga. Posiada on rozmieszczenie baz nieprzyjaciela i planuje im przeszkodzić. W tym celu
